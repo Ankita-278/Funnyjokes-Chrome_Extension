@@ -1,5 +1,6 @@
-# Chrome-Extension 
+# Funnyjokes-Chrome-Extension 
 ## Random Jokes Generator
+Project built under UAceIt Winter of Mentorship 2.0
 Provides random jokes with each click
 
 **INSTRUCTIONS**
